@@ -1,0 +1,32 @@
+.page {
+  background-color: #000;
+  color: #fff;
+  font-family: sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  padding: 2rem;
+}
+
+.main {
+  text-align: center;
+}
+
+.hero {
+  margin-bottom: 4rem;
+}
+
+.title {
+  font-size: 4rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+  background: -webkit-linear-gradient(45deg, #f3ec78, #af4261);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.description {
+  font-size: 1.5rem;
+  color: #aaa;
+}
